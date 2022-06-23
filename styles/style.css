@@ -49,6 +49,13 @@ body {
   height: 100%;
   flex-direction: column;
 }
+.business-img img {
+  opacity: 0.7;
+  mix-blend-mode: multiply;
+}
+.business-img {
+  background-color: var(--soft-violet-primary);
+}
 /*TEXT*/
 .card-title {
   font-family: "Inter", sans-serif;
