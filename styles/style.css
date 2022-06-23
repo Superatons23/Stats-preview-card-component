@@ -105,10 +105,11 @@ body {
   .card-text-info {
     display: flex;
     height: 100%;
+    margin-top: 2.3rem;
     flex-direction: row;
     justify-content: space-between;
   }
   .card-body {
-    padding: 3rem 4rem 3rem 3rem;
+    padding: 3rem 4rem 2rem 3rem;
   }
 }
