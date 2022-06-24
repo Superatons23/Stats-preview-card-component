@@ -95,7 +95,7 @@ body {
 .card-title-span {
   color: var(--soft-violet-primary);
 }
-@media (min-width: 1440px) {
+@media (min-width: 820px) {
   .card {
     text-align: start;
     width: 55rem !important;
